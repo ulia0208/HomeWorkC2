@@ -1,0 +1,5 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/ProgIntroSem1/sem02/hw2/task15/obj/Debug/net7.0/task15.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/ProgIntroSem1/sem02/hw2/task15/obj/Debug/net7.0/task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/ProgIntroSem1/sem02/hw2/task15/obj/Debug/net7.0/task15.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/ProgIntroSem1/sem02/hw2/task15/obj/Debug/net7.0/task15.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/ProgIntroSem1/sem02/hw2/task15/obj/Debug/net7.0/task15.csproj.CoreCompileInputs.cache
