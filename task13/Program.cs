@@ -1,12 +1,12 @@
 ﻿Console.Clear();
-Console.WriteLine("Введите число, а явыведу трерью цифру");
+Console.WriteLine("Введите число, а я выведу трерью цифру");
 
 string str = Console.ReadLine();
 int m=str.Length;
 
 double n = Math.Pow(10,m-3);
 double n2 = Math.Pow(10,m-2);
-
+ 
 int nI=(int)n;
 int nI2=(int)n2;
 
@@ -33,7 +33,6 @@ else
 
     }
 }
-
 
 
     
