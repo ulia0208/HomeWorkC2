@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿
+Console.Clear();
 Console.WriteLine("Введите число, а я выведу трерью цифру");
 
 string str = Console.ReadLine();

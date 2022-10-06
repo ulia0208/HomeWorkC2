@@ -1,5 +1,4 @@
-﻿
-Console.Clear();
+﻿Console.Clear();
 Console.WriteLine("Введите трехзначное число, я выведу второе");
 int n = Convert.ToInt32(Console.ReadLine());
 int n1 = n%100;
